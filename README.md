@@ -1,6 +1,7 @@
 # su
 
 1. SQL 폴더
+
 1) 분석 데이터
 - 총 5개: vitamin_addr.csv, vitamin_member.csv, vitamin_order.csv, vitamin_orderdetail.csv, vitamin_product.csv
 - csv 파일은 모두 엑셀로 랜덤 숫자를 기입하여 만들었음
@@ -8,7 +9,9 @@
 2) 쿼리파일(vitamin.sql)
 -『SQL로 분석하고 Tableau로 시각화하자』(모원서) 책을 참고로 데이터분석을 해봤음 
 
+
 2. R & Python 폴더
+
 1) 분석 데이터 (labor_220726.csv)
 - 23차 한국노동패널 데이터 중 개인용 데이터를 활용함
 
