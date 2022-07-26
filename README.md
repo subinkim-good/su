@@ -7,7 +7,7 @@
 - csv 파일은 모두 엑셀로 랜덤 숫자를 기입하여 만들었음
 
 (2) 쿼리파일(vitamin.sql)
--『SQL로 분석하고 Tableau로 시각화하자』(모원서) 책을 참고로 데이터분석을 해봤음 
+-『SQL로 분석하고 Tableau로 시각화하자』(모원서) 책 참고 
 
 
 2. R & Python 폴더
@@ -20,4 +20,5 @@
 
 (3) R파일: labor.R
 
-(4) ipynb 파일: labor.ipynb 
+(4) ipynb 파일: labor1.ipynb 
+-『Do it! 쉽게 배우는 파이썬 데이터 분석』(김영우) 책 참고 
