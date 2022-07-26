@@ -1,10 +1,10 @@
 # su
 
-1. SQL 폴더
+## 1. SQL 폴더
 
-(1) 분석 데이터
-- 총 5개: vitamin_addr.csv, vitamin_member.csv, vitamin_order.csv, vitamin_orderdetail.csv, vitamin_product.csv
-- csv 파일은 모두 엑셀로 랜덤 숫자를 기입하여 만들었음
+### (1) 분석 데이터
+#### - 총 5개: vitamin_addr.csv, vitamin_member.csv, vitamin_order.csv, vitamin_orderdetail.csv, vitamin_product.csv
+#### - csv 파일은 모두 엑셀로 랜덤 숫자를 기입하여 만들었음
 
 (2) 쿼리파일(vitamin.sql)
 -『SQL로 분석하고 Tableau로 시각화하자』(모원서) 책 참고 
