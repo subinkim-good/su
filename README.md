@@ -20,5 +20,5 @@
 
 ### (3) R파일: labor.R
 
-### (4) ipynb 파일: labor1.ipynb 
+### (4) ipynb 파일: labor1.ipynb, labor2.ipynb 
 #### -『Do it! 쉽게 배우는 파이썬 데이터 분석』(김영우) 책 참고 
